@@ -70,4 +70,3 @@ function dy = LotkaVolterra(t,y,params)
 end
 
   
-LotkaVolterra.png
