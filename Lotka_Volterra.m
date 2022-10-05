@@ -70,4 +70,3 @@ function dy = LotkaVolterra(t,y,params)
 end
 
   
-https://github.com/TGCollins/Predator-Prey-Population-Dynamics/blob/c29195c0d808e1a6edec48e58bd55cb1c05aa6e6/LotkaVolterra.png
