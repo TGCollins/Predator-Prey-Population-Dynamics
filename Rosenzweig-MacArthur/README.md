@@ -8,4 +8,4 @@
 
 ### Oscillating System
 
-<p align="center"><img src="https://github.com/TGCollins/Predator-Prey-Population-Dynamics/blob/main/Rosenzweig-MacArthur/Graphs/RM-triples.png"/></p>
+<p align="center"><img src="https://github.com/TGCollins/Predator-Prey-Population-Dynamics/blob/main/Rosenzweig-MacArthur/Graphs/RM-triple.png"/></p>
