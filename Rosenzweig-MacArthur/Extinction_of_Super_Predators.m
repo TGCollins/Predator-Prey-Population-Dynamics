@@ -9,13 +9,13 @@ close all; clear all; clc;
 
 r = 0.65;
 a1 = 0.9;
-a2 = 0.25;
-g1 = 0.4;
+g1 = 0.25;
+d1 = 0.4;
+a2 = 0.15;
 g2 = 0.15;
-d1 = 0.15;
 d2 = 0.4;
 
-params = [r; a1; a2; g1; g2; d1; d2];
+params = [r; a1; g1; d1; a2; g2; d2];
 
 %===================================
 % Initial Values
@@ -52,7 +52,7 @@ hold off
 
 function dy = RMModelv3(t,y,params)
   
-  r1 = params(1);
+  r = params(1);
   a1 = params(2);
   a2 = params(3);
   g1 = params(4);
