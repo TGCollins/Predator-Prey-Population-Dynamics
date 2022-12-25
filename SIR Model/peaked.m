@@ -8,7 +8,7 @@ close all; clear all; clc;
 
 beta = 5;      % rate of infection
 gamma = 2;     % rate of recovery
-N = 10;        % Total population (S + I + R)
+N = 1.2;        % Total population (S + I + R)
 I0 = 0.2;      % Initial number of infected
   
 % --------------------------------------------
